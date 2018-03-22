@@ -1,0 +1,93 @@
+#cabecalho{
+	background-color:#6175f0;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 36px;
+	padding-left: 34px;
+	padding-top: 20px;
+	color: white;
+}
+
+#cabecalho h1{
+	margin: 0px;
+	font-weight: normal;
+}
+
+#cabecalho h2{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	margin-bottom: 0px;
+	padding-bottom:13px;
+	font-weight: normal;
+}
+
+img[src="images/unicorn.jpg"] {
+	float:left;
+	width:310px;
+	margin-right:13px;
+}
+
+#verdade h2{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+#verdade p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+#verdade .referencia{
+	font-style: italic;
+}
+
+#hoje {
+	float: right;
+	width: 405px; 
+    margin-right: 25px;
+    background-color: #f8cef7;
+	padding: 20px 35px 30px 35px;
+    text-align: center;
+    border: 1px solid;
+    border-color: #ff56fb;
+    box-sizing: border-box;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#hoje img{
+	width:112px;
+	height: 112px;
+}
+#hoje h2{
+	font-size: 24px;
+	font-weight: normal;
+}
+#hoje h3{
+	font-size: 18px;
+	font-weight: normal;
+}
+
+#musica h2{
+    font-size: 24px;
+	font-weight: normal;
+	font-family: "Times New Roman", Times, serif;
+}
+#musica p{
+	padding-left:12px;
+	white-space: pre-line;
+}
+#musica p:nth-child(odd) {
+    padding-left: 34px;
+}
+#musica .destacado{
+	background-color: #c4caf3;
+	color: #004a79;
+	padding-bottom: 12px;
+}
+
+#musica .destacado p:nth-child(1){
+	padding-left: 12px;
+}
+#musica .destacado p:nth-child(2){
+	padding-left: 46px;
+}
